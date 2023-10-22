@@ -83,4 +83,4 @@ all_characters = KeyVariable.key_var_all  # Contains all alphanumeric and specia
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
