@@ -1,5 +1,7 @@
 # Cryptodo
 
+![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
+
 Cryptodo is a Python library for text encryption and decryption. It provides various encryption methods such as Caesar cipher, substitution cipher, rail fence cipher, and more. This library is designed to be easy to use and can be integrated into your Python projects for secure data handling.
 
 ## Installation
@@ -80,6 +82,8 @@ from cryptodo import KeyVariable
 
 all_characters = KeyVariable.key_var_all  # Contains all alphanumeric and special characters
 ```
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/cryptodo/count.svg)
 
 ## License
 
